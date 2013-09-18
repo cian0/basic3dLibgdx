@@ -25,7 +25,7 @@ import com.badlogic.gdx.graphics.g3d.materials.Material;
 import com.badlogic.gdx.graphics.g3d.utils.CameraInputController;
 import com.badlogic.gdx.graphics.g3d.utils.ModelBuilder;
 import com.badlogic.gdx.utils.Array;
-
+//
 public class Basic3DTest implements ApplicationListener {
 	
 	public PerspectiveCamera cam;
